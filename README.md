@@ -50,12 +50,14 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" width="80"/>
 </div>
 
+<hr>
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WallaceJunior14&repo=github-readme-stats"/>
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WallaceJunior14&repo=convoychat" />
+    <img align="center"     src="https://githubreadmestats.vercel.app/api/pin/username=WallaceJunior14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 

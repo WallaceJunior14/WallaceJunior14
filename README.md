@@ -26,11 +26,15 @@ Here are some ideas to get you started:
   {
     name: "Wallace Primo Freire Junior",
     age: 19,  
+    mail: "wallacepfj1409@gmail.com",
+    
     address: {
       city: "Ponta Grossa",
       state: "Paraná"
     },
-    training: "Técnico em Informática"
+    training: "Técnico em Informática",
+    experience_developer: "3 years",
+    technologies: ['HTML','CSS','JS','NODE','REACT','PHP', GIT]
   }
 </code>
 

@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src='https://i.postimg.cc/bYtmbbTp/octocat-1677350705722.png' border='0' alt='octocat-1677350705722' height="500" width="500"/>
 </div>
 
-<!-- MAIN -->
+<!-- sobre -->
 <h2>Um pouco mais sobre mim...</h2>
 <pre>
   <code>
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 </pre>
 <br><hr>
 
+<!-- TECNOLOGIAS -->
 <h2 align="center">TECNOLOGIAS</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="50"/>
@@ -58,9 +59,14 @@ Here are some ideas to get you started:
     <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+<br>
 
-<h2 align="center">REDES SOCIAIS</h2>
+<!-- Redes Sociais -->
+<h3 align="center">CONTATOS</h3>
 <div align="center">
-  <i class="ph-instagram-logo"></i>
+  <a href="https://instagram.com/wallace.junior_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wallacepfj1409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wallace-junior-87b7011aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
 </div>
 

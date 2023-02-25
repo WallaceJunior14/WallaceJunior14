@@ -20,11 +20,6 @@ Here are some ideas to get you started:
   <img src='https://i.postimg.cc/bYtmbbTp/octocat-1677350705722.png' border='0' alt='octocat-1677350705722' height="500" width="500"/>
 </div>
 
-<h3>Redes Sociais</h3>
-<div>
-  <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="#000000" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><circle cx="128" cy="128" r="40" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="16"></circle><rect x="36" y="36" width="184" height="184" rx="48" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></rect><circle cx="180" cy="76" r="12"></circle></svg>
-</div>
-
 <!-- MAIN -->
 <h2>Um pouco mais sobre mim...</h2>
 <pre>
@@ -43,6 +38,7 @@ Here are some ideas to get you started:
     }
   </code>
 </pre>
+<br><br>
 
 <h2 align="center">Tecnologias</h2>
 <div align="center">
@@ -63,5 +59,4 @@ Here are some ideas to get you started:
     <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
 

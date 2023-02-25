@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 </div>
 
 <br><br>
-<p align="center">Obrigado por estar aqui!</p>
+<p align="center"><b>Obrigado por estar aqui!</b></p>

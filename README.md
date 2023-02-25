@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- HEADER -->
 <h1 align="center">Wallace Junior</h1>
 <h3 align="center">👋 Olá! Seja Bem-Vindo ao meu perfil do Github.</h3>
-<div aligh="center">
+<div align="center">
   <img src='https://i.postimg.cc/bYtmbbTp/octocat-1677350705722.png' border='0' alt='octocat-1677350705722' height="500" width="500"/>
 </div>
 

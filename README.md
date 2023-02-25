@@ -60,6 +60,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <br>
+<hr>
 
 <!-- Redes Sociais -->
 <h3 align="center">CONTATOS</h3>

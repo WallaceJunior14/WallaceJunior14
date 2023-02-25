@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- MAIN -->
 <h2>Um pouco mais sobre mim...</h2>
-`
+<code>
   {
     name: "Wallace Primo Freire Junior",
     age: 19,  
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
     },
     training: "Técnico em Informática"
   }
-`
+</code>

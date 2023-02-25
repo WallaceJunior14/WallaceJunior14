@@ -13,6 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- HEADER -->
 <h1 align="center">Wallace Junior</h1>
 <h3 align="center">👋 Olá! Seja Bem-Vindo ao meu perfil do Github.</h3>
 <img src='https://i.postimg.cc/bYtmbbTp/octocat-1677350705722.png' border='0' alt='octocat-1677350705722' align="center"/>
+
+<!-- MAIN -->
+<h2>Um pouco mais sobre mim...</h2>
+```
+  {
+    name: "Wallace Primo Freire Junior",
+    age: 19,  
+    address: {
+      city: "Ponta Grossa",
+      state: "Paraná"
+    },
+    training: "Técnico em Informática"
+  }
+```

@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 <!-- Redes Sociais -->
 <h3 align="center">CONTATOS</h3>
 <div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceJunior14&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://instagram.com/wallace.junior_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wallacepfj1409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wallace-junior-87b7011aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   

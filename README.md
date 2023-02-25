@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<h1>Wallace Junior<h1>
 # 👋 Hello! Welcome to my Github profile.
-## My name is Wallace Junior and my nickname is "Junior"!
+
 

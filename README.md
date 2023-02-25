@@ -32,8 +32,8 @@ Here are some ideas to get you started:
   }
 </code>
 
-<h2>Técnologias</h2>
-<div>
+<h2 align="center">Técnologias</h2>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="80" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="80" width="80"/>

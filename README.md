@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="80" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" width="80"/>

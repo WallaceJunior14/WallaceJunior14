@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="textalign: center;">Wallace Junior<h1>
+<h1 style="text-align: center;">Wallace Junior<h1>
 # 👋 Hello! Welcome to my Github profile.
 
 

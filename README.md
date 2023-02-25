@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     }
   </code>
 </pre>
-<br><hr>
+<br><hr> 
 
 <!-- TECNOLOGIAS -->
 <h2 align="center">TECNOLOGIAS</h2>

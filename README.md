@@ -31,3 +31,6 @@ Here are some ideas to get you started:
     training: "Técnico em Informática"
   }
 </code>
+
+<h2>Técnologias</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />

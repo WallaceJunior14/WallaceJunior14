@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<script src="https://unpkg.com/phosphor-icons"></script>
 
 <!-- HEADER -->
 <h1 align="center">Wallace Junior</h1>
@@ -72,4 +71,4 @@ Here are some ideas to get you started:
 </div>
 
 <br><br>
-<p align="center"><b>Obrigado por estar aqui!</b></p>
+<p align="center"><b>⚡ Obrigado por estar aqui! ⚡</b></p>

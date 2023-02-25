@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Wallace Junior<h1>
-# 👋 Hello! Welcome to my Github profile.
+<h5 align="center">👋 Hello! Welcome to my Github profile.<h5>
 
 

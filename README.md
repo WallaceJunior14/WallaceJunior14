@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Wallace Junior</h1>
-<h5 align="center">👋 Hello! Welcome to my Github profile.</h5>
-
-
+<h5 align="center">👋 Olá! Seja Bem-Vindo ao meu perfil do Github.</h5>
+[![octocat-1677350705722.png](https://i.postimg.cc/bYtmbbTp/octocat-1677350705722.png)](https://postimg.cc/w395Y1ZG)

@@ -38,9 +38,16 @@ Here are some ideas to get you started:
     }
   </code>
 </pre>
-<br><br>
+<br><hr>
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">TECNOLOGIAS</h2>
+<div align="center">
+  <a href="https://github.com/WallaceJunior14">
+    <img height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceJunior14&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="80" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" width="80"/>
@@ -49,14 +56,5 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="80" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" width="80"/>
-</div>
-
-<hr>
-
-<div align="center">
-  <a href="https://github.com/WallaceJunior14">
-    <img height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceJunior14&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
 </div>
 

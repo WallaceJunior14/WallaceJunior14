@@ -22,21 +22,22 @@ Here are some ideas to get you started:
 
 <!-- MAIN -->
 <h2>Um pouco mais sobre mim...</h2>
-<code>
-  {
-    name: "Wallace Primo Freire Junior",
-    age: 19,  
-    mail: "wallacepfj1409@gmail.com",
-    
-    address: {
-      city: "Ponta Grossa",
-      state: "Paraná"
-    },
-    training: "Técnico em Informática",
-    experience_developer: "3 years",
-    technologies: ['HTML','CSS','JS','NODE','REACT','PHP', GIT]
-  }
-</code>
+<pre>
+  <code>
+    {
+      name: "Wallace Primo Freire Junior",
+      age: 19,  
+      mail: "wallacepfj1409@gmail.com",
+      address: {
+        city: "Ponta Grossa",
+        state: "Paraná"
+      },
+      training: "Técnico em Informática",
+      experience_developer: "3 years",
+      technologies: ['HTML','CSS','JS','NODE','REACT','PHP', GIT]
+    }
+  </code>
+</pre>
 
 <h2 align="center">Tecnologias</h2>
 <div align="center">

@@ -26,15 +26,16 @@ Here are some ideas to get you started:
   <code>
     {
       name: "Wallace Primo Freire Junior",
-      age: 19,  
+      age: 20,  
       mail: "wallacepfj1409@gmail.com",
       address: {
         city: "Ponta Grossa",
         state: "Paraná"
       },
-      training: "Técnico em Informática",
-      experience_developer: "3 years",
-      technologies: ['HTML','CSS','JS','NODE','REACT','PHP', GIT]
+      experience: {
+        technician: "Técnico em Informática",
+        faculty: "Bacharel em Ciencia Da Computaçao (1/8 período)"
+        technologies: ['HTML','CSS','JS','NODE','REACT','PHP', 'GIT', 'C', 'C++']
     }
   </code>
 </pre>

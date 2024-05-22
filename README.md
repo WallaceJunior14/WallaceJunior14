@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- sobre -->
-<h2>Um pouco mais sobre mim...</h2>
+<h2>A little more about me...</h2>
 <pre>
   <code>
     {
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br><hr> 
 
 <!-- TECNOLOGIAS -->
-<h2 align="center">TECNOLOGIAS</h2>
+<h2 align="center">TECNOLOGS</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50"/>
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <hr>
 
 <!-- Redes Sociais -->
-<h3 align="center">CONTATOS</h3>
+<h3 align="center">CONTATS</h3>
 <div align="center">
   <a href="https://instagram.com/wallace.junior_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wallacepfj1409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 </div>
 
 <br><br>
-<p align="center"><b>⚡ Obrigado por estar aqui! ⚡</b></p>
+<p align="center"><b>⚡ Thank you for being here! ⚡</b></p>

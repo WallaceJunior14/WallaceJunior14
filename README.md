@@ -35,7 +35,7 @@ Here are some ideas to get you started:
       experience: {
         technician: "Técnico em Informática",
         faculty: "Bacharel em Ciencia Da Computaçao (1/8 período)",
-        technologies: ['HTML','CSS','JS','NODE','REACT','PHP', 'GIT', 'C', 'C++']
+        technologies: ['HTML/CSS','NODE','NEXT','REACT','TYPESCRIPT','PHP', 'GIT', 'C', 'C++']
     }
   </code>
 </pre>

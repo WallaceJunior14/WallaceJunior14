@@ -32,17 +32,20 @@ Here are some ideas to get you started:
         city: "Ponta Grossa",
         state: "Paraná"
       },
-      experience: {
-        technician: "Técnico em Informática",
-        faculty: "Bacharel em Ciencia Da Computaçao (2/8 período)",
+      formations: {
+        technician: "Computer Technician",
+        faculty: "Bachelor of Science in Computer Science (2/8 período)"
+      },
+      expertise: {
         technologies: ['HTML/CSS','NODE','NEXT','REACT','TYPESCRIPT','PHP', 'GIT', 'C', 'C++']
+      }
     }
   </code>
 </pre>
 <br><hr> 
 
 <!-- TECNOLOGIAS -->
-<h2 align="center">TECNOLOGS</h2>
+<h2 align="center">Programming Languages</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50"/>
@@ -58,14 +61,14 @@ Here are some ideas to get you started:
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true" />
   </picture>
 </div>
 <br>

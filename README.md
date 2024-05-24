@@ -65,18 +65,18 @@ Here are some ideas to get you started:
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true" />
   </picture>
 
   <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceJunior14&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceJunior14&layout=compact&hide_border=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true" />
   </picture>

@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <!-- TECNOLOGIAS -->
 <h2 align="center">Programming Languages</h2>
-<div style="diplay:flex; justify-content: space-between;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50"/>
@@ -65,6 +65,17 @@ Here are some ideas to get you started:
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true" />
+  </picture>
+
+  <source
+      srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&hide_border=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceJunior14&layout=compact&theme=dark"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true" />

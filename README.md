@@ -34,7 +34,7 @@ Here are some ideas to get you started:
       },
       formations: {
         technician: "Computer Technician",
-        faculty: "Bachelor of Science in Computer Science (2/8 período)"
+        faculty: "Bachelor of Science in Computer Science (2/8 period)"
       },
       expertise: {
         technologies: ['HTML/CSS','NODE','NEXT','REACT','TYPESCRIPT','PHP', 'GIT', 'C', 'C++']
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&border_color=hide_border&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <!-- Redes Sociais -->
 <h3 align="center">CONTATS</h3>
 <div align="center">
-  <a href="https://instagram.com/wallace.junior_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/wj.freire_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wallacepfj1409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wallace-junior-87b7011aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 

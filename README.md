@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <!-- TECNOLOGIAS -->
 <h2 align="center">Programming Languages</h2>
-<div  diplay="flex" justify-content="space-between">
+<div  align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50"/>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<div diplay="flex" justify-content="space-between">
+<div align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&hide_border=true&theme=dark"

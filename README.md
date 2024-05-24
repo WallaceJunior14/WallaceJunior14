@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <!-- TECNOLOGIAS -->
 <h2 align="center">Programming Languages</h2>
-<div align="center">
+<div  diplay="flex" justify-content="space-between">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50"/>

@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<div >
+<div diplay="flex" justify-content="space-between">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&hide_border=true&theme=dark"

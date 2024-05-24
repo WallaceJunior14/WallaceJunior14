@@ -69,6 +69,17 @@ Here are some ideas to get you started:
     />
     <img src="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true" />
   </picture>
+
+  <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceJunior14&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true" />
+  </picture>
 </div>
 <br>
 <hr>

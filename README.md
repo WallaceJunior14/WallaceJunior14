@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&border_color=hide_border&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=WallaceJunior14&show_icons=true&hide_border=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
